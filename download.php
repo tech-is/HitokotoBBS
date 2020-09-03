@@ -4,7 +4,7 @@
 /****************************************/
 
 // 定数ファイル読み込み
-include_once("define.php");
+include_once("config/define.php");
 
 // 変数の初期化
 $csv_data = null;
